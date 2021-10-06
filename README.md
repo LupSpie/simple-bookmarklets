@@ -1,19 +1,17 @@
 # Simple Bookmarklets
----
 
 These are some of the [bookmarklets](https://en.wikipedia.org/wiki/Bookmarklet) I've made. They sould work on every browser, or at least every browser that runs on chromium.
 
-*Just note that I've only tested them on the Vivaldi Browser. So don't know if they'll work 101%*
+Checkout the [readable_code](./readable_code/) folder if you want to understand what the fuck is happening (maybe even make it better lol)
 
+\**Just note that I've only tested them on the Vivaldi Browser. So I don't know if they'll work 101% on every browser* <br />
 I hope they can help you in some way 🙂
-
-<br /><br />
-
-Checkout the [readable_code](./bookmarklets.md) folder if you want to understand what the fuck is happening (maybe even make it better lol)
 
 ---
 
 ### How to "install"
+
+The code is in the [bookmarklets.md](./bookmarklets.md) file, all you need to do is Copy and Paste them following these instructions:
 
 **On every browser:**
 
