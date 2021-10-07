@@ -4,8 +4,6 @@ These are some [bookmarklets](https://en.wikipedia.org/wiki/Bookmarklet) that I'
 
 [Click here](./bookmarklets.md) to check out the bookmarklets.
 
----
-
 ## How to "install"
 
 ### On every browser:
