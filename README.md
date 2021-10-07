@@ -1,32 +1,28 @@
 # Simple Bookmarklets
 
-These are some of the [bookmarklets](https://en.wikipedia.org/wiki/Bookmarklet) I've made. They sould work on every browser, or at least every browser that runs on chromium.
+These are some [bookmarklets](https://en.wikipedia.org/wiki/Bookmarklet) that I've made. They should work on every browser; *please note that I've only tested them on a chromium based one*. Also, if you want to check out the code in a readable format, just head on to the [readable_code](./readable_code) folder.
 
-Checkout the [readable_code](./readable_code/) folder if you want to understand what the fuck is happening (maybe even make it better lol)
-
-\**Just note that I've only tested them on the Vivaldi Browser. So I don't know if they'll work 101% on every browser* <br />
-I hope they can help you in some way 🙂
+[Click here](./bookmarklets.md) to check out the bookmarklets.
 
 ---
 
-### How to "install"
+## How to "install"
 
-The code is in the [bookmarklets.md](./bookmarklets.md) file, all you need to do is Copy and Paste them following these instructions:
+### On every browser:
 
-**On every browser:**
+1. Copy the desired bookmarklet
+2. Head to your bookmark bar
+3. Right click to add a new bookmark
+4. Copy and paste to the address field
+5. Now you just need to click the bookmark to activate the bookmarklet
 
-1. Head to your bookmark bar
-2. Right click to add a new bookmark
-3. Copy and paste the `javascript:()` to the address field
-4. Now you just need to click the bookmark to activate the bookmarklet
+### On Vivaldi (command chains):
 
-**On Vivaldi (command chains):**
+Since 4.1 the Vivaldi browser supports command chains (they can also run JavaScript inside them).
 
-Since 4.1 Vivaldi supports command chains, and they can also run bookmarklets. Here's how:
-
-1. Head to the settings page
-2. Go to the Quick Commands
-3. Create a new chain
-4. Change the command to Open Link in Current Tab
-5. Copy and paste the `javascript:()` to the Command Parameter
-6. Done, now you can use the bookmarklet in context menus, mouse gestures, keyboard shortcuts or in the quick commands.
+1. Copy the desired bookmarklet
+2. Head to the settings page
+3. Go to the Quick Commands
+4. Create a new chain
+5. Change the command to Open Link in Current Tab
+6. Copy and paste to the Command Parameter
